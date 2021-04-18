@@ -1,1 +1,2 @@
-Changes made in readme
+Changes made in readme.md
+Changes updated
